@@ -75,8 +75,8 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/uwemdev/all-in-one-whatsapp-bot.git"
+      "url": "git+https://github.com/Lanky6565/all-in-one-whatsapp-bot.git"
    },
-   "bugs": { "url": "https://github.com/uwemdev/all-in-one-whatsapp-bot/issues" },
-   "homepage": "https://github.com/uwemdev/all-in-one-whatsapp-bot#readme"
+   "bugs": { "url": "https://github.com/Lanky6565/all-in-one-whatsapp-bot/issues" },
+   "homepage": "https://github.com/Lanky6565/all-in-one-whatsapp-bot#readme"
 }
